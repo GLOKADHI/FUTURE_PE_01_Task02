@@ -26,7 +26,7 @@ A modern, responsive food delivery application built with React, TypeScript, and
 1. Clone the repository:
 ```bash
 git clone https://github.com/GLOKADHI/FUTURE_PE_01_Task02.git
-cd foodiehub
+cd FUTURE_PE_01_Task02
 ```
 
 2. Install dependencies:
